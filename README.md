@@ -21,6 +21,6 @@ The dataset has five following files.
 -	Divvy_Trips_2019_Q1.csv: 365,069 records and 12 fields
 -	Divvy_Trips_2019_Q2.csv: 1,108,163 records and 12 fields
 -	Divvy_Trips_2019_Q3.csv: 1,640,718 records and 12 fields
--	Divvy_Trips_2019_Q1.csv: 107,054 records and 12 fields
+-	Divvy_Trips_2019_Q4.csv: 704,054 records and 12 fields
 -	Divvy_Bicycle_Stations.csv: 1419 records and 8 fields
 After cleaning (manipulating, appending, and merging), I have a dataset with 3,818,004 records and 12 fields.
